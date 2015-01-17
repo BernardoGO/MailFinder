@@ -1,0 +1,13 @@
+C:\Bernardo\Projetos\C#\Spam\Spam\Spam\bin\Debug\Spam.exe
+C:\Bernardo\Projetos\C#\Spam\Spam\Spam\bin\Debug\Spam.pdb
+C:\Bernardo\Projetos\C#\Spam\Spam\Spam\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Bernardo\Projetos\C#\Spam\Spam\Spam\obj\x86\Debug\MainWindow.baml
+C:\Bernardo\Projetos\C#\Spam\Spam\Spam\obj\x86\Debug\MainWindow.g.cs
+C:\Bernardo\Projetos\C#\Spam\Spam\Spam\obj\x86\Debug\App.g.cs
+C:\Bernardo\Projetos\C#\Spam\Spam\Spam\obj\x86\Debug\Spam_MarkupCompile.cache
+C:\Bernardo\Projetos\C#\Spam\Spam\Spam\obj\x86\Debug\Spam.g.resources
+C:\Bernardo\Projetos\C#\Spam\Spam\Spam\obj\x86\Debug\Spam.Properties.Resources.resources
+C:\Bernardo\Projetos\C#\Spam\Spam\Spam\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Bernardo\Projetos\C#\Spam\Spam\Spam\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Bernardo\Projetos\C#\Spam\Spam\Spam\obj\x86\Debug\Spam.exe
+C:\Bernardo\Projetos\C#\Spam\Spam\Spam\obj\x86\Debug\Spam.pdb
